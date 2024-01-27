@@ -18,40 +18,18 @@
   <br/>
   <br/>
 
-  <a href='https://paperswithcode.com/task/image-super-resolution'>
-    <img src="https://img.shields.io/badge/Paperswithcode-Image%20Super%20Resolution-25c2a0?style=flat-square"/>
-  </a>
-  <a href='https://github.com/XPixelGroup/HAT'>
-    <img src="https://img.shields.io/badge/XPixelGroup-HAT-EF2D5E?style=flat-square"/>
+  <a href='https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1'>
+    <img src="https://img.shields.io/badge/Paperswithcode-Robust%20Speech%20Recognition-25c2a0?style=flat-square"/>
+  </a> 
+  <br/>
+  <a href='https://github.com/openai/whisper'>
+    <img src="https://img.shields.io/badge/OpenAI-whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
   </a>
   <a href='https://github.com/xinntao/ESRGAN?tab=readme-ov-file'>
-    <img src="https://img.shields.io/badge/Xintao-ESRGAN-EF2D5E?style=flat-square"/>
-  </a>
-  <img src="https://img.shields.io/badge/Weights%20&%20Biases-dea500?style=flat-square&logo=weightsandbiases&logoColor=white&text=white"/>
-  </br>
-  
-  <a href='https://paperswithcode.com/task/object-detection-in-aerial-images'>
-    <img src="https://img.shields.io/badge/Paperswithcode-Object%20Detection%20In%20Aerial%20Images-25c2a0?style=flat-square"/>
-  </a>
-  <a href='https://github.com/open-mmlab/mmrotate'>
-    <img src="https://img.shields.io/badge/OpenMMLab-MMRotate-EF2D5E?style=flat-square"/>
-  </a>
-  <a href='https://github.com/ZFTurbo/Weighted-Boxes-Fusion'>
-    <img src="https://img.shields.io/badge/Ensemble-Weighted%20Boxes%20Fusion-EF2D5E?style=flat-square"/>
+    <img src="https://img.shields.io/badge/facebookresearch-wav2vec-0467DF?style=flat-square&logo=meta&logoColor=white"/>
   </a>
   <br/>
-
-  
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights%20&%20Biases-dea500?style=flat-square&logo=weightsandbiases&logoColor=white&text=white"/>
 </p>
 <br/>
 <br/>
