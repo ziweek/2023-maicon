@@ -96,6 +96,7 @@ https://github.com/ziweek/desirable-sea/assets/99459331/4a7edb47-754c-47fd-8dab-
 <br/>
 
 
+<!--
 
 # 업데이트 로그
 
@@ -154,6 +155,8 @@ https://github.com/ziweek/desirable-sea/assets/99459331/4a7edb47-754c-47fd-8dab-
 
 <br/>
 <br/>
+
+-->
 
 # 2. 프로덕트
 
